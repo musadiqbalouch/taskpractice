@@ -1,12 +1,8 @@
-import React from "react"
+import React from "react";
 
-function Subject(){
-    return(
-       <input type="text"  className="subject" placeholder="Subject"/>
-    )
-
+import "./components/section-cards/Subject.css";
+function Subject() {
+  return <textarea type="text" className="subject" placeholder="Subject" />;
 }
 
-
-export default Subject
-
+export default Subject;
