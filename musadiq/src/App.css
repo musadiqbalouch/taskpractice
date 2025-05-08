@@ -1,0 +1,15 @@
+.section-container{
+    width:1848px;
+    height: 1061px;
+    top: 2009px;
+    left: 36px;
+    padding-top: 102px;
+    padding-bottom: 102px;
+    padding-right: 86px;
+    padding-left: 86px;
+    gap: 10px;
+}
+h2{
+    background-color: red;
+}
+

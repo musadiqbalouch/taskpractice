@@ -1,0 +1,30 @@
+.card2{
+    height: 450px;
+    width: 250px;
+    text-align: center;
+    color: white;
+    justify-items: center;
+    /* display: flex; */
+    flex-direction: column;
+    border: 3px solid white; 
+    border-radius: 20px;
+}
+.img{
+    width: 50%;
+    height: auto;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+}
+.msg-box{
+    margin-top: 100px;
+    rotate: -90deg;
+    color: white;
+    font-weight: 300px;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+.images{
+    height: 200px;
+    margin-top: 10px;
+}

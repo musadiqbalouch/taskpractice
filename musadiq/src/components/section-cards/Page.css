@@ -1,0 +1,10 @@
+.heading1{
+    height: 100%;
+    width: 100%;
+    border: 5px solid white;
+    padding: 100px 250px;
+}
+.header{
+   text-align: center;
+   font-size: 40px;
+}
