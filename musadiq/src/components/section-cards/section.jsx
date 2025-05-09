@@ -6,6 +6,8 @@ import Card4 from "./Card4";
 import Card5 from "./Card5";
 import "./Section.css"; // CSS file import
 import Page from "./Page";
+import Footer from "./Footer";
+import "./Footer.css"
 
 function Section() {
   return (
@@ -24,7 +26,11 @@ function Section() {
         <div className="landing-page" style={{ marginTop: "14rem" }}>
           <Page />
         </div>
+        
       </section>
+      <div className="" style={{ marginTop: "14rem", width:"100%" }}>
+          <Footer />
+        </div>
     </>
   );
 }

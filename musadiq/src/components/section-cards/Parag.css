@@ -1,0 +1,15 @@
+.para{
+    width: 1192px;
+    height: 87px;
+    font-weight: 500px;
+    line-height: 130%;
+
+color: black;
+font-size: 27px;
+ padding-left: 250px; 
+ padding-right: 250px;
+ margin-top: -20px;
+}
+.changecolor{
+    color: #B5252E  ;
+}

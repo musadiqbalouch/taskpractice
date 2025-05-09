@@ -4,7 +4,7 @@ input{
 .name{
 height: 50px;
 width: 47%;
-font-size: 27px;
+font-size: 25px;
 border-radius: 10px;
 gap: 20px;
 border: 2px solid white;
@@ -12,6 +12,12 @@ margin-left: 20px;
 color: white;
 background-color: transparent;
 text-align:left;
+
 }
 
-
+input::placeholder{
+    color: white;
+    padding-left: 25px;
+    /* padding-top: 5px;
+    padding-bottom: 5px;  */
+}

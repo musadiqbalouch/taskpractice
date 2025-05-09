@@ -12,31 +12,31 @@ function Product() {
       <div className="list">
         <div className="list1">
           <input type="checkbox" />
-          <p>CAN-IT BAGS</p>
+          <p className="ptag">CAN-IT BAGS</p>
         </div>
         <div className="list1">
           <input type="checkbox" />
-          <p className="p1">BOTTLE-IT BAGS</p>
+          <p className="ptag">BOTTLE-IT BAGS</p>
         </div>
         <div className="list1">
           <input type="checkbox" />
-          <p> BAG-IT BAGS</p>
+          <p className="ptag"> BAG-IT BAGS</p>
         </div>
         <div className="list1">
           <input type="checkbox" />
-          <p> TAKE-IT BAGS - CUSTOMER TAKE OUT BAGS</p>
+          <p className="ptag"> TAKE-IT BAGS - CUSTOMER TAKE OUT BAGS</p>
         </div>
         <div className="list1">
           <input type="checkbox" />
-          <p>TRASH-IT BAGS 13 GAL-TALL KITCHEN DRAWSTRING TRASH BAGS </p>
+          <p className="ptag">TRASH-IT BAGS 13 GAL-TALL KITCHEN DRAWSTRING TRASH BAGS </p>
         </div>
         <div className="list1">
           <input type="checkbox" />
-          <p>TRASH-IT BAGS 33 GAL-LARGE TRASH BAGS </p>
+          <p className="ptag">TRASH-IT BAGS 33 GAL-LARGE TRASH BAGS </p>
         </div>
         <div className="list1">
           <input type="checkbox" />
-          <p>TRASH-IT BAGS 33 GAL-LARGE TRASH BAGS </p>
+          <p className="ptag">TRASH-IT BAGS 33 GAL-LARGE TRASH BAGS </p>
         </div>
       </div>
 

@@ -1,0 +1,88 @@
+.discription{
+height: 100%;
+width: 100%;
+background-color: white;
+align-items: center;
+display: flex;
+flex-direction: row;
+gap: 167px;
+}
+
+.subcribe{
+    color:#B5252E;
+    width: 282px;
+height: 82px;
+font-size: 38px;
+padding-bottom: 60px;
+
+}
+.pa1{
+    width: 384px;
+height: 63px;
+color: black;
+font-size: 20px;
+font-weight: 500px;
+padding-right:30px;
+text-align: start;
+margin-top: -70px;
+}
+.x1{
+    margin-bottom: -7px;
+}
+.mail{
+width: 500px;
+height: 60px;
+border-radius: 15px;
+align-items: start;
+justify-content: start;
+margin-left: -5px;
+
+}
+.mailbtn{
+    background-color: #B5252E;
+    padding: 15px 60px 15px 60px;
+    gap: 10px;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 150px;
+}
+.menuu{
+    color:#B5252E;
+    font-size: 38px;
+}
+.menu1{
+    width: 250px;
+height: 200px;
+gap: 9px;
+margin-bottom: 240px;
+}
+.product{
+   width: 250px;
+height: 200px;
+gap: 9px;
+margin-bottom: 240px; 
+}
+.prod{
+    color:#B5252E;
+    font-size: 38px;
+}
+.ContactUs{
+    width: 250px;
+height: 200px;
+margin-bottom: 235px; 
+}
+.cont{
+     color:#B5252E;
+    font-size: 38px;
+}
+.info{
+    color:#B5252E;
+}
+.ppp{
+   font-size: 17.5px;
+   margin-top: -15px;
+}
+input::placeholder{
+    color: black;
+    font-size: 16px;
+}
