@@ -8,6 +8,8 @@ import "./Section.css"; // CSS file import
 import Page from "./Page";
 import Footer from "./Footer";
 import "./Footer.css"
+import Task4 from "./Task4";
+
 
 function Section() {
   return (
@@ -30,6 +32,9 @@ function Section() {
       </section>
       <div className="" style={{ marginTop: "14rem", width:"100%" }}>
           <Footer />
+        </div>
+          <div className="" style={{ marginTop: "14rem", width:"100%" }}>
+        <Task4 />
         </div>
     </>
   );

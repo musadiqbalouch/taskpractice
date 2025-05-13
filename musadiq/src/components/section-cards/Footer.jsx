@@ -13,7 +13,6 @@ function footer(){
                <Parag />
                <Disrip />
                <Footerr />
-
             </div>
         </div>
         

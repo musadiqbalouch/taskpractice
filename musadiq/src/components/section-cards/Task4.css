@@ -1,0 +1,22 @@
+.tsk4{
+    height: 120vh;
+    width: 100vw;
+     background:radial-gradient(#EE535D,#850C0C);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     /* position: relative; */
+     /* margin-bottom: 100px; */
+}
+.bg-img{
+    background-image: url("../../assets/background.png");
+    object-fit: cover;
+  height: 1000px;
+    width: 1500px;
+    border-radius: 60px;
+    opacity: 0.4;
+   background-size: cover;
+    background-repeat: no-repeat;
+    /* padding: 100px; */
+}
+    

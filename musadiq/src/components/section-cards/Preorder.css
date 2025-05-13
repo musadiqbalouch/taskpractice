@@ -1,0 +1,25 @@
+/* .nameinput{
+    color: white;  
+    position: absolute;
+}
+.txtinput{
+    height: 20px;
+    width: 60px;
+    background-color: white;
+    color: #AAAAAA;
+} */
+
+.pre{ 
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    font-size: 27px;
+    position: absolute;
+    flex-direction: column;
+    color: #FFFFFF;
+    margin: -700px; 
+}
+.pre-order{
+    /* margin-bottom: -100px; */
+  
+}
